@@ -92,10 +92,18 @@ An AI-driven research project focused on identifying IoT devices using machine l
 
 ---
 
+---
+
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=niranjanez&bg_color=0d1117&color=00d9ff&line=8957e5&point=ffffff&area=true&hide_border=true" width="98%" alt="GitHub Contribution Activity"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=niranjanez&theme=github-compact&hide_border=true&area=true" width="98%" alt="Contribution Activity Graph" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/niranjanez">
+    View my GitHub profile and contribution history →
+  </a>
 </p>
 
 ---
@@ -103,8 +111,16 @@ An AI-driven research project focused on identifying IoT devices using machine l
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=niranjanez&theme=onestar&no-frame=true&no-bg=true&margin-w=8" width="98%" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=niranjanez&theme=darkhub&no-frame=true&no-bg=true&margin-w=8" width="98%" alt="GitHub Trophies" />
 </p>
+
+<p align="center">
+  <a href="https://github.com/niranjanez?tab=repositories">
+    Explore my repositories →
+  </a>
+</p>
+
+--->
 
 ---
 
