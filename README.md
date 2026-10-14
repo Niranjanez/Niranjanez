@@ -75,7 +75,7 @@ An AI-driven research project focused on identifying IoT devices using machine l
 
 **Technologies:** Python · PyTorch · FastAPI · Streamlit · Machine Learning · Deep Learning
 
-🔗 **Repository:** [Add your project repository URL here](https://github.com/niranjanez)
+🔗 **[Browse my repositories](https://github.com/niranjanez?tab=repositories)** — I'll add a direct link to this project when its repository is identified.
 
 ---
 
@@ -92,35 +92,15 @@ An AI-driven research project focused on identifying IoT devices using machine l
 
 ---
 
----
-
 ## 📈 Contribution Activity
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=niranjanez&theme=github-compact&hide_border=true&area=true" width="98%" alt="Contribution Activity Graph" />
-</p>
+GitHub already displays your contribution calendar and activity timeline directly on your profile below this README, so I've removed the unreliable third-party graph image to avoid a broken-image icon.
 
 <p align="center">
-  <a href="https://github.com/niranjanez">
-    View my GitHub profile and contribution history →
+  <a href="https://github.com/niranjanez?tab=overview">
+    <img src="https://img.shields.io/badge/View-GitHub%20Contributions-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub Contributions"/>
   </a>
 </p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=niranjanez&theme=darkhub&no-frame=true&no-bg=true&margin-w=8" width="98%" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/niranjanez?tab=repositories">
-    Explore my repositories →
-  </a>
-</p>
-
---->
 
 ---
 
@@ -130,12 +110,7 @@ An AI-driven research project focused on identifying IoT devices using machine l
   <a href="https://github.com/niranjanez">
     <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
-  <a href="YOUR_LINKEDIN_PROFILE_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
 </p>
-
----
 
 <p align="center">
   <i>Building. Learning. Experimenting. Improving.</i>
