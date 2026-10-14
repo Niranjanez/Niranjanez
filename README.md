@@ -75,7 +75,7 @@ An AI-driven research project focused on identifying IoT devices using machine l
 
 **Technologies:** Python · PyTorch · FastAPI · Streamlit · Machine Learning · Deep Learning
 
-🔗 **[Browse my repositories](https://github.com/niranjanez?tab=repositories)** — I'll add a direct link to this project when its repository is identified.
+
 
 ---
 
